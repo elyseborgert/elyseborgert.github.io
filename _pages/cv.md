@@ -14,4 +14,4 @@ Education
 * Ph.D in Statistics & Operations Research, University of North Carolina at Chapel Hill, 2024
 * B.S. in Mathematics, University of Florida, 2019
 
-[CV](elyseborgert.github.io/files/CV_26Jan2025.pdf)
+[CV](/files/CV_26Jan2025.pdf)
