@@ -50,12 +50,14 @@
     {% endif %}
 
     <!-- Display Citation and optional Link to Manuscript -->
-    {% if post.citation %}
-      <p>Recommended citation: {{ post.citation }}</p>
-    {% endif %}
-    {% if post.paperurl %}
-      <p><a href="{{ post.paperurl }}">Link to manuscript</a></p>
-    {% endif %}
+    <div style="margin-bottom: 0.5rem;">
+      {% if post.citation %}
+        <p style="margin-bottom: 0.2rem;">Recommended citation: {{ post.citation }}</p>
+      {% endif %}
+      {% if post.paperurl %}
+        <p><a href="{{ post.paperurl }}">Link to manuscript</a></p>
+      {% endif %}
+    </div>
 
   </article>
 </div>
