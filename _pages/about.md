@@ -8,7 +8,7 @@ redirect_from:
 ---
 Welcome to my website! 
 
-I am currently a postdoctoral researcher at the U.S. Meat Animal Research Center working as a theoretical statistican in the Genetics and Animal Breeding Unit. Previously, I completed my PhD in Statistics and Operations Research at the University of North Carolina at Chapel Hill under the joint supervision of Jan Hannig and J.S. Marron. 
+I am currently a postdoctoral researcher at the [U.S. Meat Animal Research Center](https://www.ars.usda.gov/plains-area/clay-center-ne/marc/) working as a theoretical statistician in the [Genetics and Animal Breeding Unit](https://www.ars.usda.gov/plains-area/clay-center-ne/marc/gabru/). Previously, I completed my PhD in [Statistics and Operations Research at the University of North Carolina at Chapel Hill](https://stor.unc.edu/) under the joint supervision of [Jan Hannig](https://hannig.cloudapps.unc.edu/) and [J.S. Marron](https://marron.web.unc.edu/).
 
 ## Research Interests
 - Foundations of statistics
