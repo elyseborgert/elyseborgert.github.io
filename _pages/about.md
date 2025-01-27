@@ -6,4 +6,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
-Welcome to my website! I am currently a postdoctoral researcher at the U.S. Meat Animal Research Center working as a theoretical statistican in the Genetics and Animal Breeding Unit. Previously, I completed my PhD in Statistics and Operations Research at the University of North Carolina at Chapel Hill under the joint supervision of Jan Hannig and J.S. Marron. 
+Welcome to my website! 
+
+I am currently a postdoctoral researcher at the U.S. Meat Animal Research Center working as a theoretical statistican in the Genetics and Animal Breeding Unit. Previously, I completed my PhD in Statistics and Operations Research at the University of North Carolina at Chapel Hill under the joint supervision of Jan Hannig and J.S. Marron. 
+
+## Research Interests
+- Machine learning for complex data objects
+- Functional data analysis
+- Foundations of statistics
+- Variance component models
+- Applications of statistics in genetic prediction and selection
