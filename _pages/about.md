@@ -14,6 +14,6 @@ I am currently a Postdoctoral Research Associate at the [University of North Car
 - Foundations of statistics
 - Machine learning for complex and high-dimensional data objects
 - Functional data analysis
-- Variance component models
+- Mixed effects models
 - Applications of statistics in clinical and translational medicine
 - Applications of statistics in genetic prediction and selection
