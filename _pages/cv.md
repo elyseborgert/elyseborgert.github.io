@@ -14,4 +14,4 @@ Education
 * Ph.D in Statistics & Operations Research, University of North Carolina at Chapel Hill, 2024
 * B.S. in Mathematics, University of Florida, 2019
 
-[CV](/files/CV031025.pdf)
+[CV](/files/CV071025.pdf)
