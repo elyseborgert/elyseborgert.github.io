@@ -16,4 +16,4 @@ I am currently a Postdoctoral Research Associate at the [University of North Car
 - Functional data analysis
 - Mixed effects models
 - Applications of statistics in clinical and translational medicine
-- Applications of statistics in genetic prediction and selection
+- Applications of statistics in agriculture and animal breeding
