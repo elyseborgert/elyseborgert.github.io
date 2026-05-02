@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Statistics & Operations Research, University of North Carolina at Chapel Hill, 2024
+* Ph.D. in Statistics & Operations Research, University of North Carolina at Chapel Hill, 2024
 * B.S. in Mathematics, University of Florida, 2019
 
 [CV](/files/CV050126.pdf)
